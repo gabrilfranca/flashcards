@@ -1,7 +1,16 @@
 body{
     background-color: brown;
     font-family:  bai jamjurre;
-    ;
+}
+
+#container{
+    display:  flex;
+    
+    
+.cartoa{
+    margin: 1rem 1rem;
+};
+
 }
 
    footer{
@@ -16,6 +25,5 @@ body{
 footer p{
     text-align: center;
     font-size: 0.5rem;
-    margin-top: 0.5rem
-    ;
+    margin-top: 0.5rem;
 }
