@@ -16,7 +16,8 @@ body{
 {}
 .cartao__conteudo{
     text-align:  center;
-    background-color: blue;;
+    background-color: blue;
+    height: 100%;
 }
 }
 
