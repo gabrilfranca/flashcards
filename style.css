@@ -59,7 +59,7 @@ font-weight: 500;
     font-weight: 700;
 }
 
-.cartoa:hover  .cartao__conteudo{
+.cartoa:active  .cartao__conteudo{
     transform: rotateY('180deg');
 }
 .cartao__conteudo__resposta,
